@@ -1,2 +1,2 @@
 # LLM-for-fraudulent-contracts
-A LLM project in progress to generate and revise fraudulent legal documents
+A LLM project to analyze and revise fraudulent legal documents
