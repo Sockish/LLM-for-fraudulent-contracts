@@ -1,0 +1,5 @@
+model_path: "/ssdshare/share/model/Phi-4-mini-instruct"
+api_port: 54228
+gradio_port: 7865
+temperature: 0.7
+max_tokens: 500

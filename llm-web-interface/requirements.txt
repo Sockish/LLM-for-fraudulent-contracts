@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+gradio
+transformers
+torch
+requests
+pydantic
+accelerate
+pyyaml
